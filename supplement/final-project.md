@@ -238,7 +238,7 @@ These algorithms are used as subroutines in larger algorithms, but they are cons
 
 #### Variational Quantum Eigensolver
 
-[VQE is an algorithm](https://developer.ibm.com/depmodels/quantum-computing/blogs/quantum-computing-qubit-vqe-variational-quantum-eigensolver/) with a lot of potential use cases.
+[VQE is an algorithm](https://developer.ibm.com/blogs/quantum-computing-qubit-vqe-variational-quantum-eigensolver/?mhsrc=ibmsearch_a&mhq=vqe) with a lot of potential use cases.
 It can be used to solve optimization problems, including solving the molecular structure and details of interesting new molecules.
 It is being investigated for materials science applications, and is one of the most promising quanutm algorithms for near-term usage because it requires a fairly small number of qubits.
 
